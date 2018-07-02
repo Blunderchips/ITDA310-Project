@@ -1,0 +1,179 @@
+commit 938a66ebb06064a653f425441ccaa809cf4a1bdc
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Fri May 18 18:28:03 2018 +0200
+
+    update
+
+commit 0d73d00b4b577c13eea550807cdd6519755f9cf8
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Fri May 18 16:48:33 2018 +0200
+
+    working
+
+commit 4f64032ee5e0c878d4bd54d375b822c880f2de83
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Fri May 18 16:33:00 2018 +0200
+
+    Add files via upload
+    
+    Uploaded Advanced Database Systems Project (ITDA310) - Matthew Van der Bijl (XQ9X3WV31)
+
+commit fb47457a8c5854b978e332c864d96fd83be4ee25
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Fri May 18 16:12:59 2018 +0200
+
+    cleaning submission
+
+commit 9c7129b83ba85f4585152bd567492a0509b8c59a
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Fri May 18 14:30:12 2018 +0200
+
+    Lunch
+
+commit 9ed9d72ebaa85617dacea2402a6aa6275e47bc00
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Fri May 18 13:08:09 2018 +0200
+
+    hax
+
+commit 70c416a396008a61a9d3da6c758246ca6393a057
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Fri May 18 12:56:44 2018 +0200
+
+    Bug fix
+
+commit 2d78ddbf14d12b008f2b3e13513bf81a7fde76c9
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Thu May 17 23:26:09 2018 +0200
+
+    Touch ups
+
+commit 43bb852efb786c2fdddb2160656669815b005b61
+Merge: 6151582 3ff71d7
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Thu May 17 20:11:41 2018 +0200
+
+    Merge branch 'master' of https://github.com/Blunderchips/ITDA310-Project
+
+commit 3ff71d7c1a1792d1071e84f10a1d3f22de640485
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Thu May 17 20:11:32 2018 +0200
+
+    Create README.txt
+    
+    Created text file readme.
+
+commit 24648f3650cdd2d25dc376bc6223e819ca394662
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Thu May 17 20:11:08 2018 +0200
+
+    Delete README.md
+    
+    Deleted markdown readme. Will replace with text file for submission purposes.
+
+commit 615158258d64647a006c7e8b9923e19e0acc5708
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Thu May 17 20:09:08 2018 +0200
+
+    Major update
+
+commit 1787c351620f16fbf9f3250844a7f429147aff8c
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Thu May 17 10:24:30 2018 +0200
+
+    Nightly
+
+commit cad4b32b94d69967281ec71643a2c0f2ab57ee64
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Tue May 15 22:29:51 2018 +0200
+
+    Major update
+
+commit 09252c2147b72233f06eb1ae9b3bfaa908be5ecd
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Wed May 9 00:37:00 2018 +0200
+
+    Nightly
+
+commit 951e331faa7aa321af3536cab29747a8e314d5e7
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Mon May 7 21:33:04 2018 +0200
+
+    Nightly
+
+commit b9b27ae2e1051f9dc0fd8ee5031b441730f925d9
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Mon May 7 13:41:45 2018 +0200
+
+    Work done in class
+
+commit a3f470dd720ae0b5e9c3316dbead8b27abd275a9
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Mon May 7 10:09:16 2018 +0200
+
+    Nightly
+
+commit a8b08f69887c123e41c66a306235666ef9b18b64
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Sun May 6 11:08:53 2018 +0200
+
+    Sunday morning
+
+commit 20a990119a3dae2e9268a69e3d3adc4ff03a4dcf
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Sat May 5 21:07:30 2018 +0200
+
+    Nightly
+
+commit af7f3605d8ad35de0043d83b3e7fa5f1cad1f05b
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Sat May 5 11:24:28 2018 +0200
+
+    Added resources
+
+commit 2ef2887e891d38bdf0b6ccec7e60139f7f3d5f8b
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Fri Apr 27 11:01:29 2018 +0200
+
+    Major update
+
+commit 369ae9051df6d086ca345c9044645df95faf66e4
+Merge: 26e3dd5 1f59c85
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Sat Apr 21 11:02:10 2018 +0200
+
+    Merge branch 'master' of https://github.com/Blunderchips/ITDA310-Project
+
+commit 26e3dd5ee66cb614a760dac39e61b918d7ce3627
+Merge: f4d2d14 5f65d5e
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Fri Apr 20 20:33:02 2018 +0200
+
+    Creating templates
+
+commit 1f59c85e5348dfece68a954fca6644860c39e2bf
+Merge: f4d2d14 5f65d5e
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Fri Apr 20 20:33:02 2018 +0200
+
+    Merge branch 'master' of https://github.com/Blunderchips/ITDA310-Project
+
+commit 5f65d5e36cd956546ba42f024789415c1413f127
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Fri Apr 20 20:32:48 2018 +0200
+
+    Add files via upload
+    
+    Uploaded project specification
+
+commit f4d2d142c04975eb8f6c396132c2cb02c02999ea
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Fri Apr 20 20:30:53 2018 +0200
+
+    Created maven project
+
+commit e7283542546c0c8955fa38e2d885cdc486baa369
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Fri Apr 20 20:28:52 2018 +0200
+
+    Initial commit
